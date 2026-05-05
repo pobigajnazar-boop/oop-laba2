@@ -12,3 +12,4 @@ C:\Users\Pobig\RiderProjects\oop-laba2\oop-laba2\obj\Debug\net10.0\refint\oop-la
 C:\Users\Pobig\RiderProjects\oop-laba2\oop-laba2\obj\Debug\net10.0\oop-laba2.pdb
 C:\Users\Pobig\RiderProjects\oop-laba2\oop-laba2\obj\Debug\net10.0\oop-laba2.genruntimeconfig.cache
 C:\Users\Pobig\RiderProjects\oop-laba2\oop-laba2\obj\Debug\net10.0\ref\oop-laba2.dll
+C:\Users\Pobig\RiderProjects\oop-laba2\oop-laba2\obj\Debug\net10.0\oop-laba2.sourcelink.json
